@@ -18,4 +18,4 @@ JavaScript historicamente é conhecida por executar no lado cliente
 
 :finnadie: # Em construção
 
-Combinado com outras ferramentas o NodeJS permite construir aplicações de rede rápidas e escalavéis de modo assíncrono, orientada a eventos não bloqueantes, ideal para troca intensa de dados através de dispositivos distribuídos.
+Combinado com outras ferramentas o NodeJS permite construir aplicações de rede rápidas e escalavéis de modo assíncrono, com todos I/O primitivos orientados a eventos não bloqueantes, ideal para troca intensa de dados através de dispositivos distribuídos.
