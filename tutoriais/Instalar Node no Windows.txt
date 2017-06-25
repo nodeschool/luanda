@@ -1,0 +1,17 @@
+Instalar Node no Windows
+Passo a passo:
+
+Baixe esse executável_ https://github.com/coreybutler/nvm-windows/releases/download/1.1.5/nvm-setup.zip
+
+descompacte e instale no diretório C:\nodejs
+abra o cmd do windows e rode os seguintes comandos:
+--------Rodar no cmd--------
+nvm arch 64  #para pc 64 bits
+nvm arch 32  #para pc 32 bits
+nvm on
+
+nvm install stable
+
+nvm list
+
+nvm use <versao retornada no comando anterior>
