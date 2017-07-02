@@ -1,0 +1,6 @@
+Pesquisar pacote
+
+debian:
+dpkg-query -l "foo*"
+
+https://www.sitepoint.com/quick-tip-multiple-versions-node-nvm/
