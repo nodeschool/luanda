@@ -6,7 +6,7 @@ Repositório do site oficial nodeschool luanda, com endereço oficial https://no
 ## Eventos
 | Evento | Ano | Local | Mentores |
 |----------|-----------|---------------------------|---------------------|
-| :cat: [Nodeschool Luanda](http://ti.to/quindai/nodeschool-luanda) :cat:  | 2017  | [kiandaHUB](http://kiandahub.com/) | [@flowck](https://github.com/flowck) <br> [@doriel](https://github.com/doriel) <br> [@quindai](https://github.com/quindai) |
+| :cat: [Nodeschool Luanda](http://ti.to/quindai/nodeschool-luanda) :cat: <br> https://ti.to/quindai/nodeschool-luanda/ | 2017  | [kiandaHUB](http://kiandahub.com/) | [@flowck](https://github.com/flowck) <br> [@doriel](https://github.com/doriel) <br> [@Edvaldo2000](https://github.com/Edvaldo2000) <br> [@quindai](https://github.com/quindai) |
 
 > [Tutoriais](./tutoriais/tutoriais.md)
 
