@@ -5,8 +5,8 @@ Repositório do site oficial nodeschool luanda, com endereço oficial https://no
 
 ## Eventos
 | Nome | Ano | Local | Mentores |
-|----------|-----------|---------------------------|
-| :cat: Nodeschool Luanda 2017, [faça a sua inscrição aqui.](http://ti.to/quindai/nodeschool-luanda) :cat:  | 2017    | [kiandaHUB](http://kiandahub.com/) | @flowck <br> @doriel <br> @quindai |
+|----------|-----------|---------------------------|---------------------|
+| :cat: Nodeschool Luanda 2017, [faça a sua inscrição aqui.](http://ti.to/quindai/nodeschool-luanda) :cat:  | 2017  | [kiandaHUB](http://kiandahub.com/) | @flowck <br> @doriel <br> @quindai |
 
 > [Tutoriais](./tutoriais/tutoriais.md)
 
